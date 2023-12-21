@@ -72,16 +72,30 @@ python test.py --model /path/to/trained_model --test_data /path/to/test_data
   <img src="https://github.com/Hamed-Aghapanah/4_Yolo_localizer_Cardiac/blob/main/R_curve.png" width="200"/>
 </div>  
 
-  # test_batch1_pred
+   
  <div align="center"> 
+   test_batch1_pred
+   <font size="10">
+ </div>
+    <div align="center">  
   <img src="https://github.com/Hamed-Aghapanah/4_Yolo_localizer_Cardiac/blob/main/test_batch1_pred.jpg" width="600"/>
    </div> 
-   # train_batch8
+
+   
+   <div align="center"> 
+   <font size="10">
+   train_batch8 
+     </div> 
+
+     
    <div align="center"> 
   
   <img src="https://github.com/Hamed-Aghapanah/4_Yolo_localizer_Cardiac/blob/main/train_batch8.jpg" width="600"/>
         </div> 
-          # test_batch0_pred
+        <div align="center"> 
+   <font size="10">
+          test_batch0_pred
+          </div> 
    <div align="center"> 
 
   <img src="https://github.com/Hamed-Aghapanah/4_Yolo_localizer_Cardiac/blob/main/test_batch0_pred.jpg" width="600"/>
